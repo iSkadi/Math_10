@@ -85,3 +85,4 @@ My_object = Shapes()
 My_object.generate_problem()
 My_object.Range()
 
+tprint("You Win!", font="xlarge")
